@@ -1,0 +1,16 @@
+nav {
+  background: #9BC9F5;
+  height: 3rem;
+}
+
+ul {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+li {
+  list-style: none;
+  padding: 0 2rem;
+  cursor: pointer;
+}

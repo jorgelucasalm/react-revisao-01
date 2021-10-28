@@ -1,0 +1,29 @@
+h2, h1, p{
+  padding: 1rem 0;
+  text-align: center;
+  color: #fff;
+}
+
+.container {
+  background: #000;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  background: #424242;
+  width: 200px;
+  margin: 2rem 1rem;
+  padding: 1rem;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card p, 
+.card h2 {
+  text-align: left;
+}
+
